@@ -1,5 +1,5 @@
 # ch-calculator
 
-result
+Not finish 
 
-https://ch-calculator.vercel.app/
+result : https://ch-calculator.vercel.app/
